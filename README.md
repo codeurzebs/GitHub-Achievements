@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NGUENAZEBS/NGUENAZEBS/b148c8a2db97e57892697b84916ccdf289765cee/.github/workflows/Private/statPILOTEZEBS.svg"/>
   
+ 👉👉👉<a href="https://github.com/NGUENAZEBS/GitHub-Achievements/discussions">Discussion Here</a>
+  
  ## Profile BADGE
  
  |  | 😘✅ | Lest discuss here about your Github Badge |
