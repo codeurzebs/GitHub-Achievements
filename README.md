@@ -3,7 +3,7 @@
   
  ## Profile BADGE
  
- |  | ZEBS |  |
+ |  | 😘✅ | Lest discuss here about your Github Badge |
  | -- | -- | -- |
  | <h2 align="center">View</h2> | <h2 align="center">Name</h2> | <h2 align="center">get Badge</h2> |
  | <img src="https://github.com/NGUENAZEBS/NGUENAZEBS/blob/main/.github/workflows/Private/Achivments/CodeurZebsAChi.png?raw=true" width="100px"/> | Pair Extraordinaire | <a href="https://github.com/NGUENAZEBS">-Follow me</a> <br> -Coauthored commits on merged pull request |
