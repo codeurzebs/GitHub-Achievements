@@ -17,6 +17,6 @@
  | <img src="https://github.com/NGUENAZEBS/NGUENAZEBS/blob/main/.github/workflows/Private/Achivments/CodeurZEBSzz.png?raw=true" width="100px"/> | Public Sponsor | <a href="https://github.com/codeurzebs">-Follow me</a><br>-Sponsored an open source contributor through GitHub Sponsors |
  
  
- 
+ GitHub badges are images displayed on your GitHub profile, to highlight achievements or important information about your project or profile.
 </div>
 
